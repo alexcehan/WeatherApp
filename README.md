@@ -1,3 +1,3 @@
 # WeatherApp
 
-#The app is in development
+The app is in development
